@@ -1,0 +1,4 @@
+name: PluginSaturn
+version: '${project.version}'
+main: berg.pvp.pluginsaturn.Main
+api-version: 1.18
